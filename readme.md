@@ -1,4 +1,3 @@
-## Welcome to dev-ahmed branch
+## Hello, Git!
 
-- This is comming from dev-ahmed branch.
 - I'm adding this from 'feature.branch'
